@@ -29,7 +29,7 @@ Proyek ini bertujuan untuk **menganalisis dan memprediksi harga optimal listing 
 - **Lokasi**: USA
 
 ## 🛠 Solusi yang Diajukan
-Pendekatan **Machine Learning-Based Optimal Price Prediction Model** digunakan untuk:
+Pendekatan **Machine Learning-Based Optimal Price Prediction Model** digunakan untuk:  
 ✅ Memprediksi harga sewa optimal berdasarkan faktor-faktor utama.  
 ✅ Membantu pemilik properti menetapkan harga yang lebih adil dan kompetitif.  
 ✅ Memberikan rekomendasi harga bagi platform Airbnb dan pengguna.  
