@@ -20,7 +20,7 @@ Proyek ini bertujuan untuk **menganalisis dan memprediksi harga optimal listing 
   - ❌ **Turunnya kepercayaan pelanggan terhadap harga di Airbnb**
 
 ## 📊 Dataset
-🔗 **https://drive.google.com/your_link_here](https://drive.google.com/drive/folders/12m7-k07pfUJ9sZHDmEmicm7XCJIu51jZ**  
+🔗 **https://drive.google.com/drive/folders/12m7-k07pfUJ9sZHDmEmicm7XCJIu51jZ?usp=drive_link**  
 
 ### **📌 Rincian Dataset**
 - **Sumber**: Kaggle
