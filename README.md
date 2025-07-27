@@ -33,3 +33,6 @@ Pendekatan **Machine Learning-Based Optimal Price Prediction Model** digunakan u
 ✅ Memprediksi harga sewa optimal berdasarkan faktor-faktor utama.  
 ✅ Membantu pemilik properti menetapkan harga yang lebih adil dan kompetitif.  
 ✅ Memberikan rekomendasi harga bagi platform Airbnb dan pengguna.  
+
+## PPT Projek
+🔗 https://www.canva.com/design/DAGhVpEfMU4/MsglLm1Wep_npnzHZrMYFg/edit?utm_content=DAGhVpEfMU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
